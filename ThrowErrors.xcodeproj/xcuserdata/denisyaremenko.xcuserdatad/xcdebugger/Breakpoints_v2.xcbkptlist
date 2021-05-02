@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C046E04C-07E5-427A-883C-1FE613D2D20D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB763AAF-6024-4929-99F1-CFF067357301"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThrowErrorsTests/SignUpFormValidatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "testFirstNameValidation_WhenInvalidCharactersProvided_ThrowsAnError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BB860E2-313F-490A-B27D-E4DD71F02C61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThrowErrorsTests/SignUpFormValidatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testFirstNameValidation_WhenInvalidCharactersProvided_ThrowsAnError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD8A791D-1DDD-4F00-B6DD-8960D531941B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThrowErrorsTests/SignUpFormValidatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testFirstNameValidation_WhenInvalidCharactersProvided_ThrowsAnError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6EB431F-7D08-4B29-8D16-14D01E117949"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThrowErrorsTests/SignUpFormValidatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "testFirstNameValidation_WhenValidCharactersProvided_ThrowsNoErrors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6EB431F-7D08-4B29-8D16-14D01E117949 - 90519bee39493549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThrowErrorsTests.SignUpFormValidatorTests.testFirstNameValidation_WhenValidCharactersProvided_ThrowsNoErrors() -&gt; ()"
+                  moduleName = "ThrowErrorsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Transcend/%D0%BC%D0%B0%D0%BA/SWIFTRW/2021/TDD/ThrowErrors/ThrowErrorsTests/SignUpFormValidatorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "A6EB431F-7D08-4B29-8D16-14D01E117949 - 90519bee39493549"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ThrowErrorsTests.SignUpFormValidatorTests.testFirstNameValidation_WhenValidCharactersProvided_ThrowsNoErrors() -&gt; ()"
+                  moduleName = "ThrowErrorsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Transcend/%D0%BC%D0%B0%D0%BA/SWIFTRW/2021/TDD/ThrowErrors/ThrowErrorsTests/SignUpFormValidatorTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F7E80D1-2D97-43B7-AE0F-867E875938EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ThrowErrorsTests/SignUpFormValidatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "testFirstNameValidation_WhenValidCharactersProvided_ThrowsNoErrors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
